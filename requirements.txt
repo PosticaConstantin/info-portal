@@ -1,0 +1,5 @@
+tornado
+motor==0.7
+gunicorn
+newrelic
+funcy
